@@ -1,6 +1,4 @@
-/bin/
-/build/
-/.settings/
-.classpath
-.project
-/target/
+/.idea/
+mybatis_demo.iml
+jbit.log
+/out/
