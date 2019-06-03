@@ -1,2 +1,2 @@
 # mybatis_demo
-mybatis
+mybatis简单的搭建和业务代码！
